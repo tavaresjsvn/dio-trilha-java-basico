@@ -1,6 +1,6 @@
 # Projeto ContaBanco
 
-Este é um projeto simples desenvolvido durante o módulo de **Sintaxe Java** na **Trilha Java Básico** da [Digital Innovation One](https://www.dio.me/).
+Este é um projeto simples desenvolvido durante o módulo de **Sintaxe Java** na **Trilha Java Básico** do bootcamp Santander 2025 - Back-End com Java na DIO.
 
 O objetivo do projeto é simular a criação de uma conta bancária a partir de dados fornecidos via terminal. O programa solicita ao usuário informações como:
 
